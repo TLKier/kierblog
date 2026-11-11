@@ -1,7 +1,7 @@
 import Cover1 from "../../../assets/music/cover/单相思.jpg?url";
 import Cover2 from "../../../assets/music/cover/桜流し.jpg?url";
 import Cover3 from "../../../assets/music/cover/One Last Kiss.jpg?url";
-import Cover4 from "../../../assets/music/cover/唯一jpg?url";
+import Cover4 from "../../../assets/music/cover/唯一.jpg?url";
 import Cover5 from "../../../assets/music/cover/だんご大家族.jpg?url";
 import Cover6 from "../../../assets/music/cover/Last regrets.jpg?url";
 import Cover7 from "../../../assets/music/cover/Polytope.jpg?url";
