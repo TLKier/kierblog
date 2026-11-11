@@ -13,4 +13,4 @@ lang: zh-CN
 
 蓝奏网盘
 https://wwaur.lanzouu.com/iIluv4fkeybe
-密码:70os
+密码70os
